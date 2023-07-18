@@ -6,13 +6,13 @@ This project aims to perform a comprehensive sales analysis using Power BI, a po
 
 ## Dataset
 
-The project utilizes a dataset containing sales data from multiple sources, including transaction details, customer information, product data, and sales performance metrics. The dataset consists of structured data stored in a relational database or flat files.
+The project utilizes a dataset containing sales data from multiple sources, including transaction details, customer information, product data, and sales performance metrics. The dataset consists of structured data stored in a relational database.
 
 ## Tools and Technologies
 
 - Power BI Desktop: The primary tool used for data modeling, creating interactive visualizations, and building insightful reports.
 
-- SQL: Used to extract and transform data from the source database or flat files.
+- SQL: Used to extract and transform data from the source database.
 
 
 ## Project Steps
