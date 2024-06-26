@@ -1,6 +1,6 @@
-# Sales Analysis in Power BI
+#Sales Analysis in Power BI
 
-## Overview
+##Overview
 
 This project aims to perform a comprehensive sales analysis using Power BI, a powerful business intelligence tool. The objective is to gain insights into sales trends, identify key performance indicators (KPIs), and provide actionable recommendations to enhance business growth and decision-making.
 
